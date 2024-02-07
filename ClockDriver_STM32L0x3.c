@@ -1,8 +1,16 @@
 /*
- * ClockDriver_STM32L0x3.c			v.1.0.mod
  *
  *  Created on: Oct 30, 2023
- *      Author: Balazs Farkas
+ *  Project: STM32_I2CDriver
+ *  File: ClockDriver_STM32L0x3.c
+ *  Author: BalazsFarkas
+ *  Processor: STM32L053R8
+ *  Compiler: ARM-GCC (STM32 IDE)
+ *  Program version: 1.0
+ *  Program description: N/A
+ *  Hardware description/pin distribution: N/A
+ *  Modified from: N/A
+ *  Change history:
  *
  *v.1.0.mod
  * Below is a custom RCC configuration function, followed by the setup of TIM6 basic timer.

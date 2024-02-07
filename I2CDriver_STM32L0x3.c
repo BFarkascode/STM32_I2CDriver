@@ -1,5 +1,4 @@
 /*
- * I2CDriver_STM32L0x3.c			v.1.0
  *
  *  Created on: 03 Nov 2023
  *  Project: STM32_I2CDriver

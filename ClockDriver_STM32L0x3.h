@@ -10,8 +10,7 @@
  *  Program description: N/A
  *  Hardware description/pin distribution: N/A
  *  Modified from: N/A
- *  Change history:
- 
+ *  Change history: N/A
  */
 
 #ifndef INC_RCCTIMPWMDELAY_CUSTOM_H_

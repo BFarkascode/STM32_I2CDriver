@@ -1,14 +1,12 @@
 /* USER CODE BEGIN Header */
 /**
- *  Project: STM32_I2CDriver
- *  File: main.c
  *  Author: BalazsFarkas
+ *  Project: STM32_I2CDriver
  *  Processor: STM32L053R8
  *  Compiler: ARM-GCC (STM32 IDE)
  *  Program version: 1.0
- *  Program description: N/A
- *  Hardware description/pin distribution: N/A
- *  Modified from: N/A
+ *  File: main.c
+ *  Hardware description/pin distribution: I2C pins on PB8 and PB9
  *  Change history: N/A
   ******************************************************************************
   * @file           : main.c

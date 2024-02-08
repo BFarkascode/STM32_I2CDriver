@@ -1,15 +1,11 @@
 /*
- *
  *  Created on: Oct 30, 2023
- *  Project: STM32_I2CDriver
- *  File: ClockDriver_STM32L0x3.c
  *  Author: BalazsFarkas
+ *  Project: STM32_I2CDriver
  *  Processor: STM32L053R8
  *  Compiler: ARM-GCC (STM32 IDE)
  *  Program version: 1.0
- *  Program description: N/A
- *  Hardware description/pin distribution: N/A
- *  Modified from: N/A
+ *  File: ClockDriver_STM32L0x3.c
  *  Change history:
  *
  *v.1.0.mod
